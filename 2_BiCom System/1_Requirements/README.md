@@ -13,5 +13,8 @@ When the Button is pressed FOUR times, this should show the car's door status.
 ## 3_State of art
 Status of the car need to be known when buttons are pressed
 
+## SWOT ANALYSIS
+
+
 
 
