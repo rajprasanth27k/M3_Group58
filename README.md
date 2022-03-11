@@ -2,7 +2,7 @@
 | Content | Created By |
 |---|---|
 | 1_RKE (Remote Keyless Entry) 3_Implementation | Raj Prasanth Karunanidhi |
-| 1Remote_Keyless_Entry Git Repo | Shivakumar B |
+| 1_RKE (Remote Keyless Entry) Requirements, .elf , .obj , Architecture,Testplan | Shivakumar B |
 | 2BiCom_System 3_Implementation | Kowsik.S |
 | 2BiCom_System Git Repo | R JITHESH KUMAR |
 
