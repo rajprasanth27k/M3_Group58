@@ -39,7 +39,7 @@ Remote keyless entry (RKE) is a system designed to remotely control the access t
 ![Swot drawio](https://user-images.githubusercontent.com/98897973/157901474-c4081d54-c116-48b1-ae5c-fe8af0500f3f.png)
 
 ## 5. 5Ws and 1H
-
+![5w1h](https://user-images.githubusercontent.com/98897973/157901806-e178260d-a9fc-4721-85b3-9963bb6515d6.png)
 
 
 
