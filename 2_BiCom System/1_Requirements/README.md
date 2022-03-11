@@ -20,16 +20,15 @@ Buttons will be provided to make it easier to access the functionalities that ar
 ## 5_ 4W's & 1H
 ![ 4W's & 1H](4w.png)
 
-## 2. High Level Requirements
+## 6_High Level Requirements
 |ID|Description|
 |------|------|
-|HLR_01|RKE key fob shall send signal to the car ECU |
-|HLR_02|The Car shall get locked |
-|HLR_02|The Car shall get Unlocked |
-|HLR_03|The Car alarm shall get activated/deactivated |
-|HLR_04|Car Approach Light shall get activated on pressing Key-fob |
+|HLR_01|WINDOW STATUS OF THE CAR  |
+|HLR_02|ALARM STATUS OF THE CAR |
+|HLR_02|BATTERY STATUS OF THE CAR |
+|HLR_03|The DOOR STATUS OF THE CAR |
 
-## 3. Low Level Requirements
+## 7_Low Level Requirements
 |ID|ID|Description|
 |------|------|------|
 |HLR_01|LLR_01|Keyfob shall be in detectable range of the car|
