@@ -14,8 +14,7 @@
 |------|--------|--------|-------|--------|
 |01|Check for window status|switch pressed 1 times |All Leds are ON| Passed |
 |02|Check for alarm ststus |switch pressed 2 times |All Leds are OFF| Passed |
-|03|Check for battery status |switch pressed 3 times | Passed |
-|04|Check for door status|switch pressed 4 times | Passed |
-
+|03|Check for battery status |switch pressed 3 times | All led on once anticlockwise | Passed |
+|04|Check for door status|switch pressed 4 times | All led on once clockwise |Passed |
 
 
