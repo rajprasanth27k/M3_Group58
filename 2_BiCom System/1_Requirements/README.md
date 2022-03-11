@@ -21,12 +21,12 @@ Buttons will be provided to make it easier to access the functionalities that ar
 ![ 4W's & 1H](4w.png)
 
 ## 6_High Level Requirements
-|ID|Description|
-|------|------|
-|HLR_01|WINDOW STATUS OF THE CAR  |
-|HLR_02|ALARM STATUS OF THE CAR |
-|HLR_02|BATTERY STATUS OF THE CAR |
-|HLR_03|The DOOR STATUS OF THE CAR |
+|ID|Description|STATUS|
+|------|------|------|
+|HLR_01|WINDOW STATUS OF THE CAR  | IMPLEMENTED |
+|HLR_02|ALARM STATUS OF THE CAR | IMPLEMENTED | 
+|HLR_02|BATTERY STATUS OF THE CAR | IMPLEMENTED |
+|HLR_03|The DOOR STATUS OF THE CAR | IMPLEMENTED |
 
 ## 7_Low Level Requirements
 |ID|ID|Description|
