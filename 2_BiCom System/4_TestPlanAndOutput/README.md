@@ -3,11 +3,11 @@
 |TestID|Description|Input|Output|Status|
 |------|--------|--------|-------|-----|
 |01|Encryption|Only authorized key can access the Car control | Authorized key has accessed the Car control | Passed |
-|02|Car Locking|switch pressed 1 times|Car  Locked| Passed |
-|03|Car unlocking|switch pressed 2 times|Car  unlocked| Passed |
-|04|Alarm Activation|switch pressed 3 times|Alarm Activated| Passed |
-|05|Alarm deactivation|switch pressed 3 times|Alarm deactivated| Passed |
-|06|Approach Light|switch pressed 4 times|Approach Light Turned ON| Passed |
+|02|Car Locking|switch pressed 1 times|Window status of the car| Passed |
+|03|Car unlocking|switch pressed 2 times|Alarm ststus of the car| Passed |
+|04|Alarm Activation|switch pressed 3 times|Battery status of the car| Passed |
+|05|Alarm deactivation|switch pressed 3 times|battery status of the car| Passed |
+|06|Approach Light|switch pressed 4 times|Door status of the car| Passed |
 
 ## LOW LEVEL TEST PLAN
 |TestID|Description|Input|Output|Status|
