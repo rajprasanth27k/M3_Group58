@@ -39,5 +39,5 @@ Buttons will be provided to make it easier to access the functionalities that ar
 ||LLR_02|All LED lights shall get turned off at the same time|
 |HLR_04|LLR_01|LEDs will turn on in a clockwise direction when it is on|              
 ||LLR_02|LEDs will turn on in a anticlockwise direction when it is off|
-|HLR_04|LLR_01|System shall print message "Approach Light"|              
-||LLR_02|All led shall get turned on in anti-clockwise manner|
+|HLR_04|LLR_01| GREEN➡ORANGE➡RED➡BLUE➡GREEN|              
+||LLR_02|GREEN➡ORANGE➡RED➡BLUE➡GREEN|
