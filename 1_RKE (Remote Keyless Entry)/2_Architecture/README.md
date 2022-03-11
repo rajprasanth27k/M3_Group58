@@ -1,5 +1,5 @@
 # Architecture
-## Behavioural Diagram
+## Behavioral Diagram
 
 ## * High Level Flow chart Behavioral Diagram
 
