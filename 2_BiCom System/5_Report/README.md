@@ -42,7 +42,19 @@ Buttons will be provided to make it easier to access the functionalities that ar
 |HLR_04|LLR_01|Led lighs when it is on GREEN->ORANGE->RED->BLUE->GREEN|              
 ||LLR_02| Led lighs when it is off GREEN<-ORANGE<-RED<-BLUE<-GREEN|
 
-## 8_HIGH LEVEL TEST PLAN
+
+##8_Behavioural Diagram
+
+* High Level Flow chart Behavioral Diagram
+
+![FL1 drawio](https://user-images.githubusercontent.com/98897973/157926269-ff80fc4b-be02-4f0d-9cec-4caa74c258b3.png)
+
+##9_
+* Low Level Flow chart Behavioral Diagram
+
+![FL2 drawio](https://user-images.githubusercontent.com/98897973/157925917-fb626ae6-7316-4b89-962a-c06854b13388.png)
+
+## 10_HIGH LEVEL TEST PLAN
 |TestID|Description|Input|Output|Status|
 |------|--------|--------|-------|-----|
 |01|Encryption|Only authorized key can access the Car control | Authorized key has accessed the Car control | Passed/Not |
@@ -52,7 +64,7 @@ Buttons will be provided to make it easier to access the functionalities that ar
 |05|Alarm deactivation|switch pressed 3 times|battery status of the car| Passed |
 |06|Approach Light|switch pressed 4 times|Door status of the car| Passed |
 
-## 9_LOW LEVEL TEST PLAN
+## 11_LOW LEVEL TEST PLAN
 |TestID|Description|Input|Output|Status|
 |------|--------|--------|-------|--------|
 |01|Check for window status|switch pressed 1 times |All Leds are ON| Passed |
