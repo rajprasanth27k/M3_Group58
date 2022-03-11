@@ -31,10 +31,10 @@ Buttons will be provided to make it easier to access the functionalities that ar
 ## 7_Low Level Requirements
 |ID|ID|Description|
 |------|------|------|
-|HLR_01|LLR_01|Keyfob shall be in detectable range of the car|
-||LLR_02|RemoteKey Battery must be Working |
-|HLR_02|LLR_01|System shall print message "Lock" |       
-||LLR_02|All LED lights shall get turned on at the same time|
+|HLR_01|LLR_01|When the Button is pressed, all LEDs will turn on|
+||LLR_02|When the Button is pressed, all LEDs will turn off |
+|HLR_02|LLR_01|All led's need to turn on when the button is pressed |       
+||LLR_02|All LED lights shall get turned off at the same time when button pressed|
 |HLR_03|LLR_01|System shall print message "Unlock"|              
 ||LLR_02|All LED lights shall get turned off at the same time|
 |HLR_04|LLR_01|System shall print message "Alarm Activated/Deactivated"|              
