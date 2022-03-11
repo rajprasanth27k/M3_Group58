@@ -34,6 +34,8 @@ Remote keyless entry (RKE) is a system designed to remotely control the access t
 |HLR_04|LLR_01|System shall print message "Approach Light"|              
 ||LLR_02|All led shall get turned on in anti-clockwise manner|
 
+## 4. SWOT Analysis
+
 
 
 
