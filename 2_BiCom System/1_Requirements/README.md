@@ -17,7 +17,7 @@ Buttons will be provided to make it easier to access the functionalities that ar
 
 ## 4_SWOT ANALYSIS
 ![Swot analysis](swot.png)
-
-
+## 5_ 4W's & 1H
+![ 4W's & 1H](4w.png)
 
 
