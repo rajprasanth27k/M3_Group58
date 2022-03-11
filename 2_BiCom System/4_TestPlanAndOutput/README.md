@@ -2,7 +2,7 @@
 ## HIGH LEVEL TEST PLAN
 |TestID|Description|Input|Output|Status|
 |------|--------|--------|-------|-----|
-|01|Encryption|Only authorized key can access the Car control | Authorized key has accessed the Car control | Passed |
+|01|Encryption|Only authorized key can access the Car control | Authorized key has accessed the Car control | Passed/Not |
 |02|Car Locking|switch pressed 1 times|Window status of the car| Passed |
 |03|Car unlocking|switch pressed 2 times|Alarm ststus of the car| Passed |
 |04|Alarm Activation|switch pressed 3 times|Battery status of the car| Passed |
