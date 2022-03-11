@@ -43,13 +43,13 @@ Buttons will be provided to make it easier to access the functionalities that ar
 ||LLR_02| Led lighs when it is off GREEN<-ORANGE<-RED<-BLUE<-GREEN|
 
 
-##8_Behavioural Diagram
+## 8_Behavioural Diagram
 
 * High Level Flow chart Behavioral Diagram
 
 ![FL1 drawio](https://user-images.githubusercontent.com/98897973/157926269-ff80fc4b-be02-4f0d-9cec-4caa74c258b3.png)
 
-##9_
+## 9_
 * Low Level Flow chart Behavioral Diagram
 
 ![FL2 drawio](https://user-images.githubusercontent.com/98897973/157925917-fb626ae6-7316-4b89-962a-c06854b13388.png)
