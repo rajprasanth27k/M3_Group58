@@ -48,7 +48,7 @@ Remote keyless entry (RKE) is a system designed to remotely control the access t
 ![5w1h](https://user-images.githubusercontent.com/98897973/157901806-e178260d-a9fc-4721-85b3-9963bb6515d6.png)
 
 # Architecture
-## Behavioural Diagram
+## Behavioral Diagram
 
 * High Level Flow chart Behavioral Diagram
 
@@ -61,10 +61,18 @@ Remote keyless entry (RKE) is a system designed to remotely control the access t
 
 ## Structural Diagram
 
+## * High Level UML Structural Diagram
+
+![FL3 drawio](https://user-images.githubusercontent.com/98897973/157947605-89f8c8b7-5870-4220-8319-10ff423ef85f.png)
+
+##
+
+## * Low Level UML Structural Diagram
 
 
+![FL4 drawio](https://user-images.githubusercontent.com/98897973/157947779-3e322f5e-5ec1-4450-a7ca-f959e4c25634.png)
 
-
+##
 
 # TestPlanAndOutput
 ## HIGH LEVEL TEST PLAN
