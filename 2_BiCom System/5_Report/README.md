@@ -16,9 +16,9 @@ Status of the car need to be known when buttons are pressed
 Buttons will be provided to make it easier to access the functionalities that are accessible.
 
 ## 4_SWOT ANALYSIS
-![Swot analysis](swot.png)
+![Swot analysis](swott.png)
 ## 5_ 4W's & 1H
-![ 4W's & 1H](4w.png)
+![ 4W's & 1H](4ws.png)
 
 ## 6_High Level Requirements
 |ID|Description|STATUS|
