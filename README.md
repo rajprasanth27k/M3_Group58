@@ -7,6 +7,11 @@
 | 2BiCom_System Requirements, makefile , Architecture,Testplan| R JITHESH KUMAR |
 
 
+|  Codiga | Codacy |
+| --- | --- | 
+|![Codiga](https://api.codiga.io/project/31915/score/svg)   ![Codiga](https://api.codiga.io/project/31915/status/svg)|![Codacy Badge](https://app.codacy.com/project/badge/Grade/9082a44149b5489e8241c69d94f9b0e0)|
+
+
 ---
 
 | Folder Name | Contents |
