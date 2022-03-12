@@ -32,9 +32,9 @@ Remote keyless entry (RKE) is a system designed to remotely control the access t
 |HLR_01|LLR_01|Keyfob shall be in detectable range of the car|
 ||LLR_02|RemoteKey Battery must be Working |
 |HLR_02|LLR_01|System shall print message "Lock" |       
-||LLR_02|All LED lights shall get turned on at the same time|
-|HLR_03|LLR_01|System shall print message "Unlock"|              
 ||LLR_02|All LED lights shall get turned off at the same time|
+|HLR_03|LLR_01|System shall print message "Unlock"|              
+||LLR_02|All LED lights shall get turned On at the same time|
 |HLR_04|LLR_01|System shall print message "Alarm Activated/Deactivated"|              
 ||LLR_02|All led shall get turned on in clockwise manner|
 |HLR_04|LLR_01|System shall print message "Approach Light"|              
@@ -88,8 +88,8 @@ Remote keyless entry (RKE) is a system designed to remotely control the access t
 ## LOW LEVEL TEST PLAN
 |TestID|Description|Input|Output|Status|
 |------|--------|--------|-------|--------|
-|01|Check all LEDs Should get turn ON together when Car is locked|switch pressed 1 times |All Leds are ON| Passed |
-|02|Check all LEDs Should get turn OFF together when Car is unlocked |switch pressed 2 times |All Leds are OFF| Passed |
+|01|Check all LEDs Should get turn Off together when Car is locked|switch pressed 1 times |All Leds are OFF| Passed |
+|02|Check all LEDs Should get turn ON together when Car is unlocked |switch pressed 2 times |All Leds are ON| Passed |
 |03|Check Alarm Activation|switch pressed 3 time |LEDs turned ON one by one in clockwise direction | Passed |
 |04|Check Alarm deactivation|switch pressed 3 time |LEDs turned OFF one by one in clockwise direction | Passed |
 |05|Check Light Approach |switch pressed 4 time |LEDs turned ON one by one in anticlockwise direction | Passed |
