@@ -1,3 +1,10 @@
+
+|  Codiga | Codacy |
+| --- | --- | 
+|![Codiga](https://api.codiga.io/project/31915/score/svg)   ![Codiga](https://api.codiga.io/project/31915/status/svg)|![Codacy Badge](https://app.codacy.com/project/badge/Grade/46c1da0e80e6456b838ec12c53520b06)|
+
+
+
 # M3_Group58
 | Content | Created By |
 |---|---|
@@ -7,9 +14,7 @@
 | 2BiCom_System Requirements, makefile , Architecture,Testplan| R JITHESH KUMAR |
 
 
-|  Codiga | Codacy |
-| --- | --- | 
-|![Codiga](https://api.codiga.io/project/31915/score/svg)   ![Codiga](https://api.codiga.io/project/31915/status/svg)|![Codacy Badge](https://app.codacy.com/project/badge/Grade/46c1da0e80e6456b838ec12c53520b06)|
+
 
 
 ---
