@@ -34,9 +34,9 @@ Remote keyless entry (RKE) is a system designed to remotely control the access t
 |HLR_01|LLR_01|Keyfob shall be in detectable range of the car|
 ||LLR_02|RemoteKey Battery must be Working |
 |HLR_02|LLR_01|System shall print message "Lock" |       
-||LLR_02|All LED lights shall get turned on at the same time|
+||LLR_02|All LED lights shall get turned OFF at the same time|
 |HLR_03|LLR_01|System shall print message "Unlock"|              
-||LLR_02|All LED lights shall get turned off at the same time|
+||LLR_02|All LED lights shall get turned ON at the same time|
 |HLR_04|LLR_01|System shall print message "Alarm Activated/Deactivated"|              
 ||LLR_02|All led shall get turned on in clockwise manner|
 |HLR_04|LLR_01|System shall print message "Approach Light"|              
