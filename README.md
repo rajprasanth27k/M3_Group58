@@ -28,7 +28,7 @@
 | Project ⇨ 4_TestPlanAndOutput | README.md(High level and Low level Test plan) |
 | Project ⇨ 5_Report | Report (README.md) |
 | Project ⇨ 6_ImagesAndVideos | All images used in repo |
-| Project ⇨ 7_Output | __Output Images and Videos__ |
+| Project ⇨ 7_Output | Output Images and Videos |
 
 ---
 
