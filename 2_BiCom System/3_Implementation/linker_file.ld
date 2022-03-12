@@ -8,24 +8,24 @@ MEMORY
 SECTIONS
 {
     .text :
-    {   /* Here starting it's not necessary to mention because .isr_vector is the start itself */
+    {   
         *(.isr_vector)
         *(.text)
         *(.rodata)
-        _etext = .; /*This is used to tell its end of text (locator.;) */
-    }> FLASH /*Both source and Drain are FLASH*/
-    _la_data = LOADADDR(.data); /* load data */
+        _etext = .; 
+    }> FLASH 
+    _la_data = LOADADDR(.data); 
 
     .data :
-    {   _sdata = .; /* start of data */
+    {   _sdata = .; 
         *(.data)
-        _edata = .; /* end of data */
-    }> SRAM AT> FLASH /*">(vma) AT> (lma)"vma is like where to load (drain) lma is like from where to load (source)*/
+        _edata = .; 
+    }> SRAM AT> FLASH 
 
     .bss :
     {
-        _sbss = .; /* start of bss */
+        _sbss = .; 
         *(.bss)
-        _ebss = .; /* end of bss */
-    }> SRAM /*Both source and Drain are FLASH*/
+        _ebss = .; 
+    }> SRAM 
 }
